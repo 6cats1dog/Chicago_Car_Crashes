@@ -1,4 +1,6 @@
+![Chicago Traffic](https://github.com/6cats1dog/Chicago_Car_Crashes/blob/main/Chicago%20Traffic.jpg)
 # Chicago Car Crashes
+
 In this phase 3 project we build a classifier to predict the primary contributory cause of a car accident, given information about the car, the people in the car, the road conditions etc. We view the audience as a Vehicle Safety Board who's interested in reducing traffic accidents.
 
 The goal of this project was to produce predictive model that would facilitate the analysis of the primary causes for car crashes. Using data provided by the City of Chicago the aim was to the information provided from the Chicago Data Portal and idenitfy patterns and trends that can be implemented with satisfactory results. The goal is to reduce the instances of crashses with preventive measures informed by the predictive model.
