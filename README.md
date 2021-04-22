@@ -25,10 +25,3 @@ Future work that will be useful is to continue to test our models with both hist
 ### Data Used:
 * Traffic_Crashes_-_Crashes.csv.zip
 
-### Featured Notebooks and Analysis
-Presentation
-Jupyter Notebook
-Jupyter Notebok PDF
-ReadMe
-Presentation PDF
-Data
