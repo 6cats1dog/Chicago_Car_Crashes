@@ -3,7 +3,7 @@
 
 In this phase 3 project we build a classifier to predict the primary contributory cause of a car accident, given information about the car, the people in the car, the road conditions etc. We view the audience as a Vehicle Safety Board who's interested in reducing traffic accidents.
 
-The goal of this project was to produce predictive model that would facilitate the analysis of the primary causes for car crashes. Using data provided by the City of Chicago the aim was to the information provided from the Chicago Data Portal and idenitfy patterns and trends that can be implemented with satisfactory results. The goal is to reduce the instances of crashses with preventive measures informed by the predictive model.
+The goal of this project was to produce predictive model that would facilitate the analysis of the primary causes for car crashes. Using data provided by the City of Chicago the aim was to the information provided from the Chicago Data Portal and identify patterns and trends that can be implemented with satisfactory results. The goal is to reduce the instances of crashes with preventive measures informed by the predictive model.
 
 ### Data Setup and Cleaning:
 The Traffic Crashes data comes from the Chicago Data Portal in which we can access a number of specific points regarding crash incidents such as the location and time information, road conditions, lighting, and driving behaviors. Most of the focus of this project was obtained bby working with the Primary Contributory cause, which are those factors that were believed to have contributed to the accidents in the first place. There was a substantial amount of data which can be accessed at  https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
